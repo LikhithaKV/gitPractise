@@ -6,6 +6,7 @@ public class Practise {
 		System.out.println("normal practising");
 		System.out.println(" practising hard ");
 		System.out.println("push to te1 branch");
+		System.out.println("push to te2 branch only");
 	}
 
 }
